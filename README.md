@@ -3,11 +3,7 @@ Below is the original README for the Spring Framework 5 - Beginner to Guru cours
 The project showcases familiarity with Spring basics, including Initializr, Spring Boot, Maven project layouts, Spring MVC, and the Spring Web dependency.
 
 
-
-
-
-
-
+#
 # Spring Framework 5: Beginner to Guru
 
 This repository is for an example application built in my [Spring Framework 5 - Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO) online course
